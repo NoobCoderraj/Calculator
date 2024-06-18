@@ -91,7 +91,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact
 
 - **GitHub:** [NoobCoderraj](https://github.com/NoobCoderraj)
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
+- **Email:** [zrajchauhan3@gmail.com](zrajchauhan3@gmail.com)
 
 ---
 
